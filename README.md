@@ -31,6 +31,14 @@ Exibição de Resultados:
 
 Os gráficos do RSI com linhas de sobrecompra e sobrevenda são uma boa prática para análise técnica. Isso ajuda na visualização de pontos críticos.
 
+![image](https://github.com/user-attachments/assets/6c01ddaa-2c1e-405c-843b-e5dbf503ab02)
+![image](https://github.com/user-attachments/assets/84df4472-b66c-4e17-a0b5-a5a8702b94e3)
+![image](https://github.com/user-attachments/assets/7f0f71e7-0bcf-4ff1-9f29-957b69702c7f)
+![image](https://github.com/user-attachments/assets/38e6ace3-b540-495d-a55f-5d21f2e1c1d7)
+![image](https://github.com/user-attachments/assets/a40ba7bc-d21a-431f-9ac3-395c33cfa6bd)
+
+
+
 
 
 
