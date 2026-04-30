@@ -1,4 +1,4 @@
-# 📈 Stock Analysis — Análise Técnica de Ações com Python
+# 📈 Stock Analysis: Análise Técnica de Ações com Python
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![yfinance](https://img.shields.io/badge/yfinance-Market%20Data-00B09B?style=for-the-badge&logoColor=white)](https://pypi.org/project/yfinance/)
@@ -7,17 +7,17 @@
 [![Colab](https://img.shields.io/badge/Google%20Colab-Ready-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-> Análise técnica completa de ações da bolsa com Python — coleta dados históricos via yfinance e calcula **SMA**, **RSI** e métricas de retorno com visualizações profissionais.
+> Análise técnica completa de ações da bolsa com Python: coleta dados históricos via yfinance e calcula **SMA**, **RSI** e métricas de retorno com visualizações profissionais.
 
 ---
 
 ## ✨ Funcionalidades
 
-- 📊 **Preço histórico** — gráfico de fechamento com série temporal completa
-- 📉 **Médias Móveis (SMA)** — SMA 20 e SMA 50 dias sobrepostas no preço
-- ⚡ **RSI (Índice de Força Relativa)** — com linhas de sobrecompra (70) e sobrevenda (30)
-- 📦 **Distribuição de retornos diários** — histograma com curva de densidade
-- 🔄 **Qualquer ticker** — basta trocar o símbolo (AAPL, PETR4.SA, MGLU3.SA...)
+- 📊 **Preço histórico**: gráfico de fechamento com série temporal completa
+- 📉 **Médias Móveis (SMA)**: SMA 20 e SMA 50 dias sobrepostas no preço
+- ⚡ **RSI (Índice de Força Relativa)**: com linhas de sobrecompra (70) e sobrevenda (30)
+- 📦 **Distribuição de retornos diários**: histograma com curva de densidade
+- 🔄 **Qualquer ticker**: basta trocar o símbolo (AAPL, PETR4.SA, MGLU3.SA...)
 
 ---
 
@@ -54,7 +54,7 @@
 ## 🚀 Como Usar
 
 ### Google Colab (recomendado)
-Abra o notebook no Colab — o yfinance já é instalado automaticamente.
+Abra o notebook no Colab: o yfinance já é instalado automaticamente.
 
 ### Local
 ```bash
@@ -80,9 +80,9 @@ ticker = 'MSFT'       # Microsoft
 
 | Indicador | Descrição |
 |----------|-----------|
-| **SMA 20** | Média Móvel Simples de 20 dias — tendência curta |
-| **SMA 50** | Média Móvel Simples de 50 dias — tendência média |
-| **RSI 14** | Força relativa — >70 sobrecomprado, <30 sobrevendido |
+| **SMA 20** | Média Móvel Simples de 20 dias: tendência curta |
+| **SMA 50** | Média Móvel Simples de 50 dias: tendência média |
+| **RSI 14** | Força relativa: >70 sobrecomprado, <30 sobrevendido |
 | **Retorno diário** | Variação % diária com distribuição estatística |
 
 ---
